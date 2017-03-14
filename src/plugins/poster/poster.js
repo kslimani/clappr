@@ -8,7 +8,7 @@ import template from '../../base/template'
 import Playback from '../../base/playback'
 import PlayerError from '../../components/error/error'
 import posterHTML from './public/poster.html'
-import playIcon from '../../icons/01-play.svg'
+import playIcon from '../../icons/poster.svg'
 import './public/poster.scss'
 
 export default class PosterPlugin extends UIContainerPlugin {
