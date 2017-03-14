@@ -9,7 +9,7 @@ import template from '../../base/template'
 import Playback from '../../base/playback'
 import posterStyle from './public/poster.scss'
 import posterHTML from './public/poster.html'
-import playIcon from '../../icons/01-play.svg'
+import playIcon from '../../icons/poster.svg'
 
 export default class PosterPlugin extends UIContainerPlugin {
   get name() { return 'poster' }
