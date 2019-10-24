@@ -4472,10 +4472,10 @@ for(var collections = ['NodeList', 'DOMTokenList', 'MediaList', 'StyleSheetList'
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/components/container/public/style.scss":
-/*!***************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/components/container/public/style.scss ***!
-  \***************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/components/container/public/style.scss":
+/*!*********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/components/container/public/style.scss ***!
+  \*********************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4491,10 +4491,10 @@ exports.push([module.i, ".container[data-container] {\n  position: absolute;\n  
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/components/core/public/style.scss":
-/*!**********************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/components/core/public/style.scss ***!
-  \**********************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/components/core/public/style.scss":
+/*!****************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/components/core/public/style.scss ***!
+  \****************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4510,10 +4510,10 @@ exports.push([module.i, "[data-player] {\n  -webkit-touch-callout: none;\n  -web
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/base_flash_playback/public/flash.scss":
-/*!************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/base_flash_playback/public/flash.scss ***!
-  \************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/base_flash_playback/public/flash.scss":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/base_flash_playback/public/flash.scss ***!
+  \******************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4529,10 +4529,10 @@ exports.push([module.i, ".clappr-flash-playback[data-flash-playback] {\n  displa
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/html5_video/public/style.scss":
-/*!****************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/html5_video/public/style.scss ***!
-  \****************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/html5_video/public/style.scss":
+/*!**********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/html5_video/public/style.scss ***!
+  \**********************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4548,10 +4548,10 @@ exports.push([module.i, "[data-html5-video] {\n  position: absolute;\n  height: 
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/html_img/public/style.scss":
-/*!*************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/html_img/public/style.scss ***!
-  \*************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/html_img/public/style.scss":
+/*!*******************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/html_img/public/style.scss ***!
+  \*******************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4567,10 +4567,10 @@ exports.push([module.i, "[data-html-img] {\n  max-width: 100%;\n  max-height: 10
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/no_op/public/style.scss":
-/*!**********************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/no_op/public/style.scss ***!
-  \**********************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/no_op/public/style.scss":
+/*!****************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/no_op/public/style.scss ***!
+  \****************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4586,10 +4586,10 @@ exports.push([module.i, "[data-no-op] {\n  position: absolute;\n  height: 100%;\
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/closed_captions/public/closed_captions.scss":
-/*!****************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/closed_captions/public/closed_captions.scss ***!
-  \****************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/closed_captions/public/closed_captions.scss":
+/*!**********************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/closed_captions/public/closed_captions.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4605,10 +4605,10 @@ exports.push([module.i, ".cc-controls[data-cc-controls] {\n  float: right;\n  po
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/dvr_controls/public/dvr_controls.scss":
-/*!**********************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/dvr_controls/public/dvr_controls.scss ***!
-  \**********************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/dvr_controls/public/dvr_controls.scss":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/dvr_controls/public/dvr_controls.scss ***!
+  \****************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4624,10 +4624,10 @@ exports.push([module.i, ".dvr-controls[data-dvr-controls] {\n  display: inline-b
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/error_screen/public/error_screen.scss":
-/*!**********************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/error_screen/public/error_screen.scss ***!
-  \**********************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/error_screen/public/error_screen.scss":
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/error_screen/public/error_screen.scss ***!
+  \****************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4643,10 +4643,10 @@ exports.push([module.i, "div.player-error-screen {\n  -webkit-font-smoothing: an
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/media_control/public/media-control.scss":
-/*!************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/media_control/public/media-control.scss ***!
-  \************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/media_control/public/media-control.scss":
+/*!******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/media_control/public/media-control.scss ***!
+  \******************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4663,10 +4663,10 @@ exports.push([module.i, ".media-control-notransition {\n  transition: none !impo
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/poster/public/poster.scss":
-/*!**********************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/poster/public/poster.scss ***!
-  \**********************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/poster/public/poster.scss":
+/*!****************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/poster/public/poster.scss ***!
+  \****************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4682,10 +4682,10 @@ exports.push([module.i, ".player-poster[data-poster] {\n  display: -webkit-box;\
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/seek_time/public/seek_time.scss":
-/*!****************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/seek_time/public/seek_time.scss ***!
-  \****************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/seek_time/public/seek_time.scss":
+/*!**********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/seek_time/public/seek_time.scss ***!
+  \**********************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4701,10 +4701,10 @@ exports.push([module.i, ".seek-time[data-seek-time] {\n  position: absolute;\n  
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/spinner_three_bounce/public/spinner.scss":
-/*!*************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/spinner_three_bounce/public/spinner.scss ***!
-  \*************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/spinner_three_bounce/public/spinner.scss":
+/*!*******************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/spinner_three_bounce/public/spinner.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4720,10 +4720,10 @@ exports.push([module.i, ".spinner-three-bounce[data-spinner] {\n  position: abso
 
 /***/ }),
 
-/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/watermark/public/watermark.scss":
-/*!****************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/watermark/public/watermark.scss ***!
-  \****************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/watermark/public/watermark.scss":
+/*!**********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/postcss-loader/lib!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/watermark/public/watermark.scss ***!
+  \**********************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -27882,7 +27882,7 @@ module.exports = exports['default'];
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/components/container/public/style.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/components/container/public/style.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -28654,7 +28654,7 @@ exports.push([module.i, "@font-face {\n  font-family: \"Roboto\";\n  font-style:
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/components/core/public/style.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/components/core/public/style.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -30124,7 +30124,7 @@ module.exports = exports["default"];
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"><path fill=\"#010101\" d=\"M1.425.35L14.575 8l-13.15 7.65V.35z\"></path></svg>"
+module.exports = "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 30 30\"><path d=\"M 6 3 A 1 1 0 0 0 5 4 A 1 1 0 0 0 5 4.0039062 L 5 15 L 5 25.996094 A 1 1 0 0 0 5 26 A 1 1 0 0 0 6 27 A 1 1 0 0 0 6.5800781 26.8125 L 6.5820312 26.814453 L 26.416016 15.908203 A 1 1 0 0 0 27 15 A 1 1 0 0 0 26.388672 14.078125 L 6.5820312 3.1855469 L 6.5800781 3.1855469 A 1 1 0 0 0 6 3 z\"></path></svg>"
 
 /***/ }),
 
@@ -30609,7 +30609,7 @@ module.exports = "<param name=\"movie\" value=\"<%= swfPath %>\">\n<param name=\
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./flash.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/base_flash_playback/public/flash.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./flash.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/base_flash_playback/public/flash.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -33625,7 +33625,7 @@ module.exports = exports['default'];
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/html5_video/public/style.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/html5_video/public/style.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -33807,7 +33807,7 @@ module.exports = exports['default'];
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/html_img/public/style.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/html_img/public/style.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -34040,7 +34040,7 @@ module.exports = "<canvas data-no-op-canvas></canvas>\n<p data-no-op-msg><%=mess
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/playbacks/no_op/public/style.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./style.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/playbacks/no_op/public/style.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -34416,7 +34416,7 @@ module.exports = "<button type=\"button\" class=\"cc-button media-control-button
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./closed_captions.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/closed_captions/public/closed_captions.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./closed_captions.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/closed_captions/public/closed_captions.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -34637,7 +34637,7 @@ module.exports = exports['default'];
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./dvr_controls.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/dvr_controls/public/dvr_controls.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./dvr_controls.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/dvr_controls/public/dvr_controls.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -34967,7 +34967,7 @@ module.exports = "<div class=\"player-error-screen__content\" data-error-screen>
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./error_screen.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/error_screen/public/error_screen.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./error_screen.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/error_screen/public/error_screen.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -36505,7 +36505,7 @@ module.exports = "<div class=\"media-control-background\" data-background></div>
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./media-control.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/media_control/public/media-control.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./media-control.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/media_control/public/media-control.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -36818,7 +36818,7 @@ module.exports = "<div class=\"play-wrapper\" data-poster></div>\n";
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./poster.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/poster/public/poster.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./poster.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/poster/public/poster.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -36884,7 +36884,7 @@ module.exports = "<span data-seek-time></span>\n<span data-duration></span>\n";
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./seek_time.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/seek_time/public/seek_time.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./seek_time.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/seek_time/public/seek_time.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -37276,7 +37276,7 @@ module.exports = "<div data-bounce1></div><div data-bounce2></div><div data-boun
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./spinner.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/spinner_three_bounce/public/spinner.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./spinner.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/spinner_three_bounce/public/spinner.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -37820,7 +37820,7 @@ module.exports = "<div class=\"clappr-watermark\" data-watermark data-watermark-
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./watermark.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/Users/bruno/workspace/clappr/clappr/src/base/scss!./src/plugins/watermark/public/watermark.scss");
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader!../../../../node_modules/postcss-loader/lib!../../../../node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./watermark.scss */ "./node_modules/css-loader/index.js!./node_modules/postcss-loader/lib/index.js!./node_modules/sass-loader/lib/loader.js?includePaths[]=/home/kslimani/projects/clappr/src/base/scss!./src/plugins/watermark/public/watermark.scss");
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
